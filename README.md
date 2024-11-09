@@ -16,8 +16,6 @@ Our project aims to create an Automated Approval Application that simplifies the
 
 1. **Track Approvals in Real-Time:** Students can ask for approvals from different departments (like Scholarship, HOD, Library, and Hostel) through the Website. They can see the status of their requests instantly, without having to visit each department in person.
 
-2. **Pay Fees Online:** Students can easily pay their college fees online through secure payment methods like Stripe or PayPal, no matter where they are. If they prefer, they can still pay in person at the fee department.
-
 3. **Instant Hall Ticket Download:** Once the fee is paid and all the required approvals are done, students can download their hall tickets right away. No more waiting for paper-based processes or manual checks. Less Work for Admin and Staff: The Website automatically handles the approval process and fee confirmations. This means the college staff spends less time managing these tasks and can focus on more important things.
 
 4. **Faster and More Efficient:** By using this Website, everything is done digitally, making the whole process faster, simpler, and less likely to have mistakes.
