@@ -4,21 +4,87 @@
 Our project aims to create an Automated Approval Application that simplifies the fee payment and No Objection Certificate (NOC) approval process for students in engineering colleges. With this app, students can complete necessary administrative tasks like paying fees, requesting approvals from various departments, and downloading hall tickets, all without having to visit the college physically. This digital system saves time, reduces paperwork, and allows students to focus more on their academics.
 
 ## Problem statement
-1. **Manual Process:** Currently, many engineering colleges still rely on a manual, in-person process for fee payments and issuing NOCs. Students have to visit multiple departments for approval, which can be very time-consuming.
-
-2. **Distance and Accessibility:** Students living far from campus often find it difficult to visit multiple departments regularly for approvals or payments, especially if they have limited time.
-
-3. **Impact on Academics:** The long process of fee payment and obtaining approvals can interfere with students’ study time, impacting their academic performance and causing unnecessary stress.
-
-4. **Administrative Burden:** Faculty and administrative staff have to manage the approval process manually, leading to inefficiencies and increased workload for the departments.
+- Manual Process
+- Accessibility
+- Impact on Academics
+- Administrative Burden
 
 ## Solution Statement:
 
-1. **Track Approvals in Real-Time:** Students can ask for approvals from different departments (like Scholarship, HOD, Library, and Hostel) through the Website. They can see the status of their requests instantly, without having to visit each department in person.
+- Track Approvals in Real-Time
+- Instant Hall Ticket Download
+- Faster and More Efficient
 
-3. **Instant Hall Ticket Download:** Once the fee is paid and all the required approvals are done, students can download their hall tickets right away. No more waiting for paper-based processes or manual checks. Less Work for Admin and Staff: The Website automatically handles the approval process and fee confirmations. This means the college staff spends less time managing these tasks and can focus on more important things.
+# Getting Started with Create React App
 
-4. **Faster and More Efficient:** By using this Website, everything is done digitally, making the whole process faster, simpler, and less likely to have mistakes.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ## Future Scope:
 1.  **Expansion into New Domains:** While VXAccess may initially serve educational institutions, it could expand to corporate, governmental, and healthcare sectors where approval processes are essential. This would require customizable workflows to match the unique requirements of each industry.
