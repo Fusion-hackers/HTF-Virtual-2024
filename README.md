@@ -86,8 +86,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+## Sceenshot of VXAccess
+
+| Description | Image | 
+| ------- | ------- |
+| Home Page | ![](https://github.com/Fusion-hackers/HTF-Virtual-2024/blob/main/Images/Screenshot%202024-11-10%20072354.png) |
+| Sign Up | ![](https://github.com/Fusion-hackers/HTF-Virtual-2024/blob/main/Images/Sign-up.png) |
+| Student Database | ![](https://github.com/Fusion-hackers/HTF-Virtual-2024/blob/main/Images/stu-dash.png) |
+| Admin / Faculty |  ![](https://github.com/Fusion-hackers/HTF-Virtual-2024/blob/main/Images/admin.png) |
+| Database | ![](https://github.com/Fusion-hackers/HTF-Virtual-2024/blob/main/Images/Database.png) |
+| Hallticket | ![](https://github.com/Fusion-hackers/HTF-Virtual-2024/blob/main/Images/hall.png) |
+
+
 ## Future Scope:
 1.  **Expansion into New Domains:** While VXAccess may initially serve educational institutions, it could expand to corporate, governmental, and healthcare sectors where approval processes are essential. This would require customizable workflows to match the unique requirements of each industry.
+
+2.  **Easy Access:** You can request access and kknow where the approval might be pending which makes it easier for the user/student to keep track of their list of approvals, similarly the admin/faculty can approve and reject the following requests.
 
 
 ## Upcoming Features:
